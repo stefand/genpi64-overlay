@@ -23,7 +23,6 @@ sys-apps/rng-tools
 net-wireless/rpi3-bluetooth
 sys-apps/rpi3-init-scripts
 sys-apps/rpi3-ondemand-cpufreq
-app-portage/showem
 dev-embedded/rpi-eeprom
 net-wireless/rpi3-wifi-regdom
 sys-apps/rpi-gpio
